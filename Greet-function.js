@@ -41,3 +41,4 @@ const greet1 = (name) => {
   }
 };
 console.log(greet1('Ayush'));
+
