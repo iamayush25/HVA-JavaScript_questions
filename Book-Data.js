@@ -1,6 +1,6 @@
 // Define the Book Class. The class should take parameters for title, author, publisher, year, and genre. Inside the constructor method, set these parameters as properties of the book object.
 
-//Add a method named describe() that logs a brief description of the book, combining the title, author, and year, e.g., "Five Point Someone - Chetan Bhagat (2004).
+// Add a method named describe() that logs a brief description of the book, combining the title, author, and year, e.g., "Five Point Someone - Chetan Bhagat (2004).
 
 
 class Book {
@@ -20,3 +20,14 @@ class Book {
 let discr = new Book ("Charlotte's Web" , "E.B. White" , "Publication" ,"1952")
 console.log(discr);
 discr.describe()
+
+
+// console.log(1 < 2 < 3);
+// console.log(3 > 2 > 1);
+
+// console.log(isNaN(true));
+// console.log(isNaN(false));
+
+// console.log(typeof(NaN));
+
+
